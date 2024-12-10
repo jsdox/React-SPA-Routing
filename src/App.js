@@ -23,10 +23,12 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import HomePage from './pages/Home';
 import Products from "./pages/Products";
 import RootLayout from "./pages/Root";
+import Error from "./pages/Error";
 
 const router = createBrowserRouter([
   {
     path: '/',
+    errorElement: <Error/>,
     element: <RootLayout />,
     children: [
       {path: '', element: <HomePage/>},
