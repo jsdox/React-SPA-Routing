@@ -9,7 +9,7 @@ function Error() {
                 An erro occured!
             </h1>
             <p>
-                Could not find this page
+                Could not find this page, please refresh or go to the home page!
             </p>
         </main>
         </>
