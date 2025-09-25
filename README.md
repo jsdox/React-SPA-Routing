@@ -6,7 +6,6 @@ Add: import { createBrowserRouter } from "react-router-dom";
 
 ## Project Name & Pitch
 
-
 #### Example:
 
 TweetWorld 
