@@ -6,8 +6,6 @@ Add: import { createBrowserRouter } from "react-router-dom";
 
 ## Project Name & Pitch
 
-#### Example:
-
 TweetWorld 
 
 An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
