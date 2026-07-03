@@ -1,4 +1,4 @@
-- Installation
+- Installation step
 
 npm install react-router-dom
 
