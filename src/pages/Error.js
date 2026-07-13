@@ -6,10 +6,10 @@ function Error() {
         <MainNavigation/>
         <main>
             <h1>
-                An erro occured!
+                An error occured!
             </h1>
             <p>
-                Could not find this page, please refresh or go to the home page!
+                Could not find this page, Please refresh or go to the home page!
             </p>
         </main>
         </>
