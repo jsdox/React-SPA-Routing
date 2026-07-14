@@ -21,12 +21,6 @@ This project is currently in development. Users can filter tweets by username an
 
 ## Project Screen Shot(s)
 
-#### Example:   
-
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
-
 ## Installation and Setup Instructions
 
 #### Example:  
