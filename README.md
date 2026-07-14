@@ -6,11 +6,11 @@ npm install react-router-dom
 Add: import { createBrowserRouter } from "react-router-dom";
 
 
-## Project Name & Pitch
+## Project Name
 
-TweetWorld 
+SPA Routing 
 
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
+An application used to filter data from Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
 
 ## Project Status
 (only necessary if incomplete)
