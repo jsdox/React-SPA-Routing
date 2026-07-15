@@ -2,11 +2,11 @@
 
 npm install react-router-dom
 
- - In App.js
+ - In the App.js file
 Add: import { createBrowserRouter } from "react-router-dom";
 
 
-## Project Name
+## My FProject
 
 SPA Routing 
 
