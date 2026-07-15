@@ -6,7 +6,7 @@ npm install react-router-dom
 Add: import { createBrowserRouter } from "react-router-dom";
 
 
-## My FProject
+## My Project
 
 SPA Routing 
 
